@@ -1,0 +1,1 @@
+This Tool is to download all necessary files from an Unreal Tournament Server to get prepared
